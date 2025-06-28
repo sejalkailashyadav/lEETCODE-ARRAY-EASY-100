@@ -8,8 +8,8 @@
 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : Done
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) : Done
 4. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/): Done
-5. [Single Number](https://leetcode.com/problems/single-number/): Done
-6. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+5. [Single Number](https://leetcode.com/problems/single-number/) : Done
+6. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) : Done
 7. [Plus One](https://leetcode.com/problems/plus-one/)
 8. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 9. [Majority Element](https://leetcode.com/problems/majority-element/)
