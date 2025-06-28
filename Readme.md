@@ -13,8 +13,8 @@
 7. [Plus One](https://leetcode.com/problems/plus-one/) : Done
 8. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  : Done
 9. [Majority Element](https://leetcode.com/problems/majority-element/) : Done
-10. [Rotate Array](https://leetcode.com/problems/rotate-array/)
-11. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+10. [Rotate Array](https://leetcode.com/problems/rotate-array/) : Done
+11. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : Done
 12. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 13. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 14. [Missing Number](https://leetcode.com/problems/missing-number/)
