@@ -10,8 +10,8 @@
 4. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/): Done
 5. [Single Number](https://leetcode.com/problems/single-number/) : Done
 6. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) : Done
-7. [Plus One](https://leetcode.com/problems/plus-one/)
-8. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+7. [Plus One](https://leetcode.com/problems/plus-one/) : Done
+8. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 
 9. [Majority Element](https://leetcode.com/problems/majority-element/)
 10. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 11. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
