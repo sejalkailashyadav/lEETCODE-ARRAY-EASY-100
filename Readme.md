@@ -12,7 +12,7 @@
 6. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) : Done
 7. [Plus One](https://leetcode.com/problems/plus-one/) : Done
 8. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  : Done
-9. [Majority Element](https://leetcode.com/problems/majority-element/)
+9. [Majority Element](https://leetcode.com/problems/majority-element/) : Done
 10. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 11. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 12. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
