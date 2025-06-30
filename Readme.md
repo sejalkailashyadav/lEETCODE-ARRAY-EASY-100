@@ -17,7 +17,7 @@
 11. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : Done
 12. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) :Done
 13. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/):Done
-14. [Missing Number](https://leetcode.com/problems/missing-number/)
+14. [Missing Number](https://leetcode.com/problems/missing-number/):Done
 15. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 16. [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 17. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
