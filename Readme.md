@@ -19,9 +19,9 @@
 13. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/):Done
 14. [Missing Number](https://leetcode.com/problems/missing-number/):Done
 15. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : Done
-16. [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
-17. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
-18. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+16. [Set Mismatch](https://leetcode.com/problems/set-mismatch/): Done
+17. [Summary Ranges](https://leetcode.com/problems/summary-ranges/) : Done
+18. [Search Insert Position](https://leetcode.com/problems/search-insert-position/): Done
 19. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 20. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 21. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
