@@ -22,11 +22,11 @@
 16. [Set Mismatch](https://leetcode.com/problems/set-mismatch/): Done
 17. [Summary Ranges](https://leetcode.com/problems/summary-ranges/) : Done
 18. [Search Insert Position](https://leetcode.com/problems/search-insert-position/): Done
-19. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-20. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-21. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
-22. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
-23. [Height Checker](https://leetcode.com/problems/height-checker/)
+19. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/): Done
+20. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/): Done
+21. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/): Done
+22. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/): Done
+23. [Height Checker](https://leetcode.com/problems/height-checker/): Done
 24. [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 25. [Remove Element](https://leetcode.com/problems/remove-element/)
 26. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
