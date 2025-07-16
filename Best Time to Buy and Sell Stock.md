@@ -1,13 +1,5 @@
 [**LeetCode 121: Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) the same way:
 
-✅ Brute Force
-✅ Optimized Approach
-✅ C++ Code
-✅ Visual Table (Iteration steps)
-✅ LeetCode-ready solution
-
----
-
 ## 🧠 Problem Statement:
 
 > Given an array `prices[]` where `prices[i]` is the price of a stock on day `i`, find the **maximum profit** you can make by buying on one day and selling on another day **after** that.
