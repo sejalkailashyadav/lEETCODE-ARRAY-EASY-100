@@ -5,7 +5,6 @@ Here’s the **complete Markdown (`.md`) solution file** for **LeetCode 1051. He
 * Simple C++ solution
 * Optimized explanation
 * Test cases
-
 ---
 
 ### 📘 LeetCode 1051 - Height Checker
