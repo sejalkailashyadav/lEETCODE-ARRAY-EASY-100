@@ -10,7 +10,6 @@ Here’s the **complete Markdown (`.md`) solution file** for **LeetCode 1051. He
 ### 📘 LeetCode 1051 - Height Checker
 
 ---
-
 #### ✅ Problem Summary
 
 You are given an array `heights` representing how students are currently standing.
