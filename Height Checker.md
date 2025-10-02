@@ -1,4 +1,4 @@
-Here’s the **complete Markdown (`.md`) solution file** for **LeetCode 1051. Height Checker** with:
+
 
 * Problem Summary
 * Step-by-step explanation
