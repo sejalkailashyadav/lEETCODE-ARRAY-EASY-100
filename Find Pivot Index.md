@@ -1,4 +1,4 @@
-### ✅ Goal:
+###  Goal:
 
 Find an index `i` where the sum of all elements to the **left** of `i` is equal to the sum of all elements to the **right** of `i`.
 
