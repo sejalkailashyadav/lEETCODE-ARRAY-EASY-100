@@ -1,6 +1,6 @@
 [**LeetCode 121: Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) the same way:
 
-## 🧠 Problem Statement:
+##  Problem Statement:
 
 > Given an array `prices[]` where `prices[i]` is the price of a stock on day `i`, find the **maximum profit** you can make by buying on one day and selling on another day **after** that.
 
@@ -20,7 +20,7 @@ Explanation: Buy on day 1 (price=1), sell on day 4 (price=6)
 
 ## 🔹 Step 1: Brute Force Approach
 
-### ✅ Idea:
+###  Idea:
 
 * Try every pair `(i, j)` where `i < j`
 * Calculate `profit = prices[j] - prices[i]`
