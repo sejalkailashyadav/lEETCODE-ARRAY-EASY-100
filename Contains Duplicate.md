@@ -4,7 +4,7 @@ You are given an array `nums`.
 You need to check:
 👉 **Is there any number that appears **more than once**?**
 
-✅ Return `true` if yes
+ Return `true` if yes
 ❌ Return `false` if all numbers are different.
 
 ---
@@ -12,10 +12,10 @@ You need to check:
 ### 🧠 Example:
 
 **Input:** `[1, 2, 3, 1]`
-`1` is repeating → ✅ Return `true`
+`1` is repeating → Return `true`
 
 **Input:** `[1, 2, 3, 4]`
-All numbers are unique → ❌ Return `false`
+All numbers are unique → Return `false`
 
 ---
 
