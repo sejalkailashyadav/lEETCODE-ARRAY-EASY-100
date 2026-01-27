@@ -7,10 +7,10 @@
 * Test cases
 ---
 
-### 📘 LeetCode 1051 - Height Checker
+### LeetCode 1051 - Height Checker
 
 ---
-#### ✅ Problem Summary
+####  Problem Summary
 
 You are given an array `heights` representing how students are currently standing.
 
