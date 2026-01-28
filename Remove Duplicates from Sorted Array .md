@@ -1,9 +1,9 @@
 **LeetCode Problem 26: Remove Duplicates from Sorted Array** with:
 
-* 🧠 Simple explanation
-* 📊 Table-based visual iteration
-* 🧾 C++ code
-* ✅ LeetCode-style return & in-place update
+*  Simple explanation
+*  Table-based visual iteration
+*  C++ code
+  ✅ LeetCode-style return & in-place update
 
 ---
 
