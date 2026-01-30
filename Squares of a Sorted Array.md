@@ -2,7 +2,7 @@
 
 ---
 
-### ✅ Problem Summary (Simple Words):
+###  Problem Summary (Simple Words):
 
 You are given a **sorted array** (could have negative and positive numbers).
 You need to:
@@ -12,7 +12,7 @@ You need to:
 
 ---
 
-### 🔍 Example:
+###  Example:
 
 #### Input:
 
