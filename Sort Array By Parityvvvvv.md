@@ -2,7 +2,7 @@
 
 ---
 
-## 🔸 Problem:
+##  Problem:
 
 You are given an array of integers `nums`.
 You need to **move all even numbers to the front** and all **odd numbers to the back**.
@@ -11,7 +11,7 @@ Order **between even or odd doesn't matter**.
 
 ---
 
-### 🔹 Example 1:
+###  Example 1:
 
 ```
 Input:  [3, 1, 2, 4]
