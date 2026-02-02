@@ -2,7 +2,7 @@ Great! Let’s solve Leetcode Problem 941: Valid Mountain Array step by step —
 
 ---
 
-## 🔍 Problem Summary
+##  Problem Summary
 
 You are given an array `arr`. Your task is to check whether it forms a mountain shape:
 
