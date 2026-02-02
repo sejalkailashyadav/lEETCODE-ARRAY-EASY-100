@@ -5,7 +5,7 @@
 ## 🔍 Problem Summary:
 
 Given an integer array `nums`,
-👉 Find the **contiguous subarray (with at least one number)** which has the **largest sum**,
+ Find the **contiguous subarray (with at least one number)** which has the **largest sum**,
 and return its sum.
 
 ---
