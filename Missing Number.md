@@ -3,11 +3,9 @@
 You are given an array `nums` containing `n` distinct numbers from the range `[0, n]`. One number is missing. You need to find it.
 
 ---
-
 ###  Intuition:
 
 There are `n + 1` numbers from `0` to `n`, but the array has only `n` numbers. So, **1 number is missing**.
-
 If we know the sum of all numbers from `0` to `n`, and subtract the sum of elements in `nums`, we get the missing number.
 
 ---
